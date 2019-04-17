@@ -26,4 +26,4 @@
  4. Inside of the directory add a text file called 'test.html'
  5. Execute the command to launch server in your directory
  6. By default it starts serving the files from local web-server running on port 8000. You can go to this server by entering URL-address: _localhost:800_ in your browser
- 7. Open 'text.html' file in your browser.
+ 7. Open 'test.html' file in your browser.
