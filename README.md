@@ -15,12 +15,12 @@
  In our scenario you may use **SimpleHTTPServer Python** module.
  You should do the following steps:
  1. Install Python. If you use Linux or Mac OS X, everything is done in our system by default. If you use Windows, you can download  a setup file from _Python.org_:
- ..*Go to [python.org](https://www.python.org/)
- ..*In _Downloads_ section click on the link for Python **3.x.x** 
- ..*Scroll to the bottom of the page and select Windows x86 executable installer and download it
- ..*Once you have downloaded an installer, run it
- ..*In the appeared dialog check the box that says **Add Python 3.x to PATH**
- ..*Click _Install_. Once the installation has been done, click _Close_
+ * Go to [python.org](https://www.python.org/)
+ * In _Downloads_ section click on the link for Python **3.x.x** 
+ * Scroll to the bottom of the page and select Windows x86 executable installer and download it
+ * Once you have downloaded an installer, run it
+ * In the appeared dialog check the box that says **Add Python 3.x to PATH**
+ * Click _Install_. Once the installation has been done, click _Close_
  2. Run the command line/terminal (for Windows/Linux OS).To verify you Python installation, enter the following:
  3. The system will return you the version number of the installed program. If the _python-v_ command is executed successfully, you shall use _cd_ command to head to directory containing your project
  4. Inside of the directory add a text file called 'test.html'
