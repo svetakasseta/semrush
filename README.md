@@ -22,7 +22,7 @@
  * In the appeared dialog check the box that says **Add Python 3.xxx to PATH**
  * Click _Install_. Once the installation has been done, click _Close_
  2. Run the command line/terminal (for Windows/Linux OS).To verify you Python installation, enter the following:
- 3. The system will return you the version number of the installed program. If the _python-v_ command is executed successfully, you shall use _cd_ command to head to directory containing your project
+ 3. The system will return you the version number of the installed program. If the 'python-v' command is executed successfully, you shall use 'cd' command to head to directory containing your project
  4. Inside of the directory add a text file called 'test.html'
  5. Execute the command to launch server in your directory
  6. By default it starts serving the files from local web-server running on port 8000. You can go to this server by entering URL-address: _localhost:800_ in your browser
