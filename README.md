@@ -10,7 +10,7 @@
    <body>
     <p>This is an example of a simple HTML page with one paragraph.</p>
    </body>
- <html>
+ </html>
  ```
  In our scenario you may use **SimpleHTTPServer Python** module.
  You should do the following steps:
