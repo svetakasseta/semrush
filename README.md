@@ -16,7 +16,7 @@
  You should do the following:
  1. Install Python. If you use Linux or Mac OS X, everything is done in our system by default. If you use Windows OS, you can download  a setup file from _Python.org_:
  * Go to [python.org](https://www.python.org/).
- * In **Downloads** section click on the link for **Python 3.xxx*. 
+ * In **Downloads** section click on the link for **Python 3.xxx**. 
  * Scroll to the bottom of the page, select Windows x86 executable installer and download it.
  * Once you have downloaded an installer, run it.
  * When the dialog box appears, select the **Add Python 3.xxx to PATH** check box.
