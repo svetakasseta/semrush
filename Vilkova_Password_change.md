@@ -6,7 +6,7 @@ Follow the steps below to change your password:
 2. Select **Profile** from the menu, then select **Settings**.
 ![Settings](<url src="https://disk.yandex.ru/client/disk/Test?idApp=client&dialog=slider&idDialog=%2Fdisk%2FTest%2FSettings.jpg" />) 
 3. In the Account Settings section click **Change password**.
-![Change password](C:\Users\Admin\Desktop\Test\Change_password.jpg)
+![Change password](https://disk.yandex.ru/client/disk/Test?idApp=client&dialog=slider&idDialog=%2Fdisk%2FTest%2FChange_password.jpg)
 4. Check your email inbox. B2Brocker will send a condirmation code to your email address immediately.
 5. **Copy the code** from the body of the email.
 6. Back on your B2Brocker account **paste the code you got from the email** into the field provided, and then click **Send**.
