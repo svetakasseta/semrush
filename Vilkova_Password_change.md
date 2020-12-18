@@ -14,4 +14,4 @@ Follow the steps below to change your password:
 7. **Enter a new password**, then click **Change**
 ![New password](https://disk.yandex.ru/client/disk/Test?idApp=client&dialog=slider&idDialog=%2Fdisk%2FTest%2FNew_password.jpg)
 
-_Note: After changing the password you will log out from all devices_
+_Note: After changing the password you will log out from all devices._
