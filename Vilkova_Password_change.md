@@ -4,7 +4,7 @@ Follow the steps below to change your password:
 
 1. Sign in to your **[B2Broker account](https://my.b2bdemo.net/en/login)**. 
 2. Select **Profile** from the menu, then select **Settings**.
-![](C:\Users\Admin\Desktop\Test\Settings.ipg) 
+![Settings](C:\Users\Admin\Desktop\Test\Settings.ipg) 
 3. In the Account Settings section click **Change password**.
 ![Change password](https://disk.yandex.ru/client/disk/Change_password.jpg)
 4. Check your email inbox. B2Brocker will send a condirmation code to your email address immediately.
