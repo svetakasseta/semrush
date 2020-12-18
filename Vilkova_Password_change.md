@@ -9,7 +9,7 @@ Follow the steps below to change your password:
 ![Change password](https://disk.yandex.ru/client/disk/Test?idApp=client&dialog=slider&idDialog=%2Fdisk%2FTest%2FChange_password.jpg)
 4. Check your email inbox. B2Brocker will send a condirmation code to your email address immediately
 5. **Copy the code** from the body of the email
-6. Back on your B2Brocker account **paste the code you got from the email** into the field provided, and then click **Send**
+6. Back on your B2Broker account **paste the code you got from the email** into the field provided, and then click **Send**
 ![Confirmation code](https://disk.yandex.ru/client/disk/Test?idApp=client&dialog=slider&idDialog=%2Fdisk%2FTest%2FConfirmation_code.jpg)
 7. **Enter a new password**, then click **Change**
 ![New password](https://disk.yandex.ru/client/disk/Test?idApp=client&dialog=slider&idDialog=%2Fdisk%2FTest%2FNew_password.jpg)
